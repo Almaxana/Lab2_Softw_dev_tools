@@ -1,2 +1,2 @@
-def Plus(a, c):
+def Plus(a, b):
     
